@@ -1,0 +1,234 @@
+---
+title: "Gender Education Plotting"
+author:
+  - name: Yaxin Ye
+    affiliations:
+      - name: Georgetown University        
+format:
+    html:
+        toc: true
+        embed-resources: true
+        theme: default
+        code-fold: true
+        code-copy: true
+        code-line-numbers: true
+        number-sections: false
+---
+
+```{python}
+#| warning: false
+
+import pandas as pd
+
+edu = pd.read_csv("../../data/cleaned/edu_all_clean.csv")
+
+newEdu = pd.read_csv("../../data/cleaned/edu_plot_clean.csv")
+```
+
+
+```{python}
+#| warning: false
+
+import plotly.graph_objects as go
+import plotly.express as px
+import plotly.io as pio
+
+pio.renderers.default = "plotly_mimetype+notebook_connected"
+```
+
+[Code Reference](https://stackoverflow.com/questions/74137808/plotly-python-how-to-make-a-dropdown-menu-with-several-lines)
+
+
+
+```{python}
+#| warning: false
+
+def plot_line_go_graph(df, x_axis, y_axis, dropdown_group=None, dropdown_option=None, dd_name=None):
+    plot_df = df.copy()
+
+    visual_mode = 'lines'
+    visual_name = 'lines'
+
+    fig = go.Figure()
+
+    if dropdown_group is None or dropdown_option is None:
+        fig.add_trace(
+            go.Scatter(
+                x=plot_df[x_axis],
+                y=plot_df[y_axis],
+                mode=visual_mode,
+                name=visual_name
+            ))
+    else:
+        trace_list = []
+        first_dd_group = plot_df[dropdown_group].unique()[0]
+        for dd_group in plot_df[dropdown_group].unique():
+            for option in plot_df[plot_df[dropdown_group] == dd_group][dropdown_option].unique():
+                fig.add_trace(
+                    go.Scatter(
+                        x=plot_df[(plot_df[dropdown_group] == dd_group) & (plot_df[dropdown_option] == option)][x_axis],
+                        y=plot_df[(plot_df[dropdown_group] == dd_group) & (plot_df[dropdown_option] == option)][y_axis],
+                        mode=visual_mode,
+                        name=option,
+                        visible=True if dd_group == first_dd_group else False  # Updated visibility
+                    ))
+                trace_list.append((dd_group, option))
+
+        updatemenus = []
+        for idx, dd_group in enumerate(plot_df[dropdown_group].unique()):
+            buttons = []
+            for btn in ["All"] + list(plot_df[plot_df[dropdown_group] == dd_group][dropdown_option].unique()):
+                if btn == "All":
+                    visible_traces = [True if trace[0] == dd_group else False for trace in trace_list]
+                else:
+                    visible_traces = [True if (dd_group, btn) == trace else False for trace in trace_list]
+
+                buttons.append(dict(method='restyle',
+                                    label=btn,
+                                    visible=True,
+                                    args=[{'visible': visible_traces}]
+                                    ))
+
+            menu = dict()
+            menu['buttons'] = buttons
+            menu['direction'] = 'down'
+            menu['x'] = 1.05
+            menu['y'] = 1 - idx * 0.15
+            menu['xanchor'] = 'left'
+            menu['showactive'] = True
+            updatemenus.append(menu)
+
+        # Add annotations
+        if dd_name is not None:
+            annotations = []
+            for idx, name in enumerate(dd_name):
+                annotations.append(dict(
+                    text=name,
+                    x=1.05,
+                    y=1 - idx * 0.15 - 0.05,
+                    xref='paper',
+                    yref='paper',
+                    xanchor='left',
+                    yanchor='top',
+                    showarrow=False,
+                    font=dict(size=12)
+                ))
+            fig.update_layout(annotations=annotations)
+
+            # Update the 'y' position of dropdown menus
+            for menu in updatemenus:
+                menu['y'] -= 0.1
+
+        fig.update_layout(updatemenus=updatemenus)
+        fig.update_layout(showlegend=True)
+
+    fig.update_xaxes(
+        showspikes=True,
+        spikecolor='black',
+        showline=True,
+        linewidth=1,
+        linecolor='black',
+        ticks="outside",
+        tickwidth=1,
+        tickcolor='black',
+        ticklen=5
+    )
+
+
+    fig.update_yaxes(
+        showspikes=True,
+        spikecolor='black',
+        showline=True,
+        linewidth=1,
+        linecolor='black',
+        ticks="outside",
+        tickwidth=1,
+        tickcolor='black',
+        ticklen=5
+    )
+    fig.update_layout(
+        hoverlabel=dict(
+            font_size=14
+        ),
+        hovermode="x",
+        legend=dict(
+            orientation="v",
+            yanchor="top",
+            y=1.0,
+            xanchor="left",
+            x=-0.5
+        ),
+        width=1600,  
+        height=800,  
+        margin=dict(  
+            l=100,
+            r=250,
+            t=100,
+            b=100
+        ),
+    )
+
+    return fig
+
+
+```
+
+
+```{python}
+#| warning: false
+
+tmp = pd.read_csv("../../data/cleaned/edu_tmp.csv")
+
+fig = plot_line_go_graph(newEdu, "Year", "Value", dropdown_group='Category_Type', dropdown_option = 'Category', dd_name=['<b>by continent:</b>', '<b>by region:</b>', '<b>by income group:</b>'])
+
+
+fig.update_layout(
+  title = '<b>Primary & Secondary School Gross Enrollment GPI by Year by Country Category</b>',
+  xaxis_title = "<b>Year</b>",
+  yaxis_title = "<b>Primary & Secondary School Enrollment GPI</b>",
+  legend_title = "<b>Country Category</b>",
+  width = 900,
+  height = 650
+)
+
+fig.show()
+```
+
+```{python}
+#| warning: false
+
+fig.write_image("../../img/gender_edu_draft_yy.png")
+
+```
+
+```{python}
+import plotly.graph_objects as go
+
+# Create a sample figure
+fig = go.Figure(go.Scatter(x=[1, 2, 3], y=[1, 3, 2]))
+
+# Create space for the annotation outside the chart
+fig.update_layout(
+    margin=dict(
+        l=50, r=50, # Left and right margins
+        b=50, t=50, # Bottom and top margins
+        pad=4 # Padding
+    )
+)
+
+# Add text annotation to the bottom-right corner, outside the chart
+fig.add_annotation(
+    text="Bottom-right text",
+    xref="paper", yref="paper",
+    x=1, y=0, # Coordinates in relative coordinates (0 to 1) for the entire plotting area
+    xanchor="right", yanchor="bottom", # Anchor the text to the right and bottom
+    showarrow=False, # Disable the arrow
+    font=dict(size=14) # Set the font size
+)
+
+# Show the figure
+fig.show()
+
+
+```
+

@@ -1,0 +1,372 @@
+---
+title: "Gender Education Data Cleaning"
+author:
+  - name: Yaxin Ye
+    affiliations:
+      - name: Georgetown University        
+format:
+    html:
+        toc: true
+        embed-resources: true
+        theme: default
+        code-fold: true
+        code-copy: true
+        code-line-numbers: true
+        number-sections: false
+---
+---
+```{python}
+#| warning: false
+import pandas as pd
+import numpy as np
+
+```
+
+```{python}
+#| warning: false
+
+edu = pd.read_csv('../../data/raw/education-data/Education.csv')
+edu.columns = edu.columns.str.replace(' ', '_')
+
+indicator = pd.read_csv('../../data/raw/education-data/Contextual Indicators.csv')
+indicator.columns = indicator.columns.str.replace(' ', '_')
+
+meta = pd.read_csv('../../data/raw/education-data/Metadata.csv')
+meta.columns = meta.columns.str.replace(' ', '_')
+
+```
+
+```{python}
+#| warning: false
+edu.head()
+```
+
+```{python}
+#| warning: false
+indicator.head()
+```
+
+```{python}
+#| warning: false
+meta.head()
+```
+
+
+**By Region:** <br />
+* East Asia & Pacific<br />
+* Europe & Central Asia<br />
+* Latin America & the Caribbean	<br />
+* Middle East & North Africa <br />
+* North America <br />
+* South Asia <br />
+* Sub-Saharan Africa <br />
+
+**By Income:** <br />
+* Low-income economies ($1,085 or less) <br />
+* Lower-middle-income economies ($1,086 to $4,255) <br />
+* Upper-middle-income economies ($4,256 to $13,205) <br />
+* High-income economies ($13,205 or more)
+
+Note: Venezuela has been temporarily unclassified as of July 2021 pending release of revised national accounts statistics.
+
+[Reference: the World Bank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)
+
+**By Continent:** <br />
+* Asia <br />
+* Europe <br />
+* North America <br />
+* South America <br />
+* Oceania <br />
+* Africa <br />
+* Antarctica <br />
+
+
+```{python}
+#| warning: false
+#print(edu['Country Name'].unique())
+
+import pycountry
+list(pycountry.countries)
+```
+
+
+
+```{python}
+#| warning: false
+
+# ================ by income group ======================
+
+income = {
+  'Low Income' : ['AFG', 'BFA', 'BDI', 'CAF', 'TCD', 'COD', 'ERI', 'ETH', 'GMB', 'GIN', 'GNB', 'PRK', 'LBR', 'MDG', 'MWI', 'MLI', 'MOZ', 'NER', 'RWA', 'SLE', 'SOM', 'SSD', 'SDN', 'SYR', 'TGO', 'UGA', 'YEM', 'ZMB'],
+
+  'Lower-middle Income' : ['AGO', 'DZA', 'BGD', 'BEN', 'BTN', 'BOL', 'CPV', 'KHM', 'CMR', 'COM', 'COG', 'CIV', 'DJI', 'EGY', 'SLV', 'SWZ', 'GHA', 'HTI', 'HND', 'IND', 'IDN', 'IRN', 'KEN', 'KIR', 'KGZ', 'LAO', 'LBN', 'LSO', 'MRT', 'FSM', 'MNG', 'MAR', 'MMR', 'NPL', 'NIC', 'NGA', 'PAK', 'PNG', 'PHL', 'WSM', 'STP', 'SEN', 'SLB', 'LKA', 'TZA', 'TJK', 'TLS', 'TUN', 'UKR', 'UZB', 'VUT', 'VNM', 'ZWE'],
+
+  'Upper-middle Income' : ['ALB', 'ASM', 'ARG', 'ARM', 'AZE', 'BLR', 'BLZ', 'BIH', 'BWA', 'BRA', 'BGR', 'CHN', 'COL', 'CRI', 'CUB', 'DMA', 'DOM', 'GNQ', 'ECU', 'FJI', 'GAB', 'GRD', 'GTM', 'GUY', 'IRQ', 'JAM', 'JOR', 'KAZ', 'LBY', 'MYS', 'MDV', 'MHL', 'MUS', 'MEX', 'MDA', 'MNE', 'NAM', 'MKD', 'PLW', 'PRY', 'PER', 'RUS', 'SRB', 'ZAF', 'LCA', 'VCT', 'SUR', 'THA', 'TON', 'TUR', 'TKM', 'TUV'],
+
+  'High Income' : ['AND', 'ATG', 'ABW', 'AUS', 'AUT', 'BHS', 'BHR', 'BRB', 'BEL', 'BMU', 'VGB', 'BRN', 'CAN', 'CYM', 'CHL', 'HRV', 'CUW', 'CYP', 'CZE', 'DNK', 'EST', 'FRO', 'FIN', 'FRA', 'PYF', 'DEU', 'GIB', 'GRC','GRL', 'GUM', 'HKG', 'HUN', 'ISL', 'IRL', 'IMN', 'ISR', 'ITA', 'JPN', 'KOR', 'KWT', 'LVA', 'LIE', 'LTU', 'LUX', 'MAC', 'MLT', 'MCO', 'NRU', 'NLD', 'NCL', 'NZL', 'MNP', 'NOR', 'OMN', 'PAN', 'POL', 'PRT', 'PRI', 'QAT', 'ROU', 'SMR', 'SAU', 'SYC', 'SGP', 'SXM', 'SVK', 'SVN', 'ESP', 'KNA', 'MAF', 'SWE', 'CHE', 'TWN', 'TTO', 'TCA', 'ARE', 'GBR', 'USA', 'URY', 'VIR']
+
+}
+```
+
+```{python}
+#| warning: false
+
+# ================ by continent ======================
+
+continent = {
+  'South & Southeast Asia' : ['AFG', 'BGD', 'BTN', 'IND', 'IRN', 'MDV', 'NPL', 'PAK', 'LKA', 'BRN', 'KHM', 'IDN', 'LAO', 'MYS', 'MMR', 'PHL', 'SGP', 'THA', 'TLS', 'VNM'],
+
+  'Central & West Asia' : ['ARM', 'AZE', 'BHR', 'CYP', 'GEO', 'IRQ', 'ISR', 'JOR', 'KWT', 'LBN', 'OMN', 'QAT', 'SAU', 'PSE', 'SYR', 'TUR', 'ARE', 'YEM', 'KAZ', 'KGZ', 'TJK', 'TKM', 'UZB'],
+
+  'East Asia' : ['CHN', 'HKG', 'MAC', 'PRK', 'JPN', 'MNG', 'KOR', 'TWN'],
+
+  # 'Asia' : ['AFG', 'ARM', 'AZE', 'BHR', 'BGD', 'BTN', 'BRN', 'KHM', 'CHN', 'HKG', 'MAC', 'CYP', 'PRK', 'GEO', 'IND', 'IDN', 'IRN', 'IRQ', 'ISR', 'JPN', 'JOR', 'KAZ', 'KWT', 'KGZ', 'LAO', 'LBN', 'MYS', 'MDV', 'MNG', 'MMR', 'NPL', 'OMN', 'PAK', 'PHL', 'QAT', 'KOR', 'SAU', 'SGP', 'LKA', 'PSE', 'SYR', 'TJK', 'THA', 'TLS', 'TUR', 'TKM', 'ARE', 'UZB', 'VNM', 'YEM', 'TWN'],
+
+  'Europe' : ['ALA', 'ALB', 'AND', 'AUT', 'BLR', 'BEL', 'BIH', 'BGR', 'HRV', 'CZE', 'DNK', 'EST', 'FRO', 'FIN', 'FRA', 'DEU', 'GIB', 'GRC', 'GGY', 'VAT', 'HUN', 'ISL', 'IRL', 'IMN', 'ITA', 'JEY', 'LVA', 'LIE', 'LTU', 'LUX', 'MLT', 'MCO', 'MNE', 'NLD', 'MKD', 'NOR', 'POL', 'PRT', 'MDA', 'ROU', 'RUS', 'SMR', 'SRB', 'SVK', 'SVN', 'ESP', 'SJM', 'SWE', 'CHE', 'UKR', 'GBR'],
+
+  'Africa' : ['DZA', 'AGO', 'BEN', 'BWA', 'IOT', 'BFA', 'BDI', 'CPV', 'CMR', 'CAF', 'TCD', 'COM', 'COG', 'CIV', 'COD', 'DJI', 'EGY', 'GNQ', 'ERI', 'SWZ', 'ETH', 'ATF', 'GAB', 'GMB', 'GHA', 'GIN', 'GNB', 'KEN', 'LSO', 'LBR', 'LBY', 'MDG', 'MWI', 'MLI', 'MRT', 'MUS', 'MYT', 'MAR', 'MOZ', 'NAM', 'NER', 'NGA', 'REU', 'RWA', 'SHN', 'STP', 'SEN', 'SYC', 'SLE', 'SOM', 'ZAF', 'SSD', 'SDN', 'TGO', 'TUN', 'UGA', 'TZA', 'ESH', 'ZMB', 'ZWE'],
+
+  'Oceania' : ['ASM', 'AUS', 'CXR', 'CCK', 'COK', 'FJI', 'PYF', 'GUM', 'HMD', 'KIR', 'MHL', 'FSM', 'NRU', 'NCL', 'NZL', 'NIU', 'NFK', 'MNP', 'PLW', 'PNG', 'PCN', 'WSM', 'SLB', 'TKL', 'TON', 'TUV', 'UMI', 'VUT', 'WLF'],
+
+  'North America' : ['AIA', 'ATG', 'ABW', 'BHS', 'BRB', 'BLZ', 'BMU', 'BES', 'VGB', 'CAN', 'CYM', 'CRI', 'CUB', 'CUW', 'DMA', 'DOM', 'SLV', 'GRL', 'GRD', 'GLP', 'GTM', 'HTI', 'HND', 'JAM', 'MTQ', 'MEX', 'MSR', 'NIC', 'PAN', 'PRI', 'BLM', 'KNA', 'LCA', 'MAF', 'SPM', 'VCT', 'SXM', 'TTO', 'TCA', 'USA', 'VIR'],
+
+  'South America' : ['ARG', 'BOL', 'BVT', 'BRA', 'CHL', 'COL', 'ECU', 'FLK', 'GUF', 'GUY', 'PRY', 'PER', 'SGS', 'SUR', 'URY', 'VEN'],
+
+  'Antarctica' : ['ATA']
+}
+
+```
+
+```{python}
+#| warning: false
+
+# ================ by REGION ======================
+region = {
+  'S. Asia' : ['AFG', 'BGD', 'BTN', 'IND', 'IRN', 'MDV', 'NPL', 'PAK', 'LKA'],
+
+  'W. Asia' : ['ARM', 'AZE', 'BHR', 'CYP', 'GEO', 'IRQ', 'ISR', 'JOR', 'KWT', 'LBN', 'OMN', 'QAT', 'SAU', 'PSE', 'SYR', 'TUR', 'ARE', 'YEM'],
+
+  'SE Asia' : ['BRN', 'KHM', 'IDN', 'LAO', 'MYS', 'MMR', 'PHL', 'SGP', 'THA', 'TLS', 'VNM'],
+
+  'E. Asia' : ['CHN', 'HKG', 'MAC', 'PRK', 'JPN', 'MNG', 'KOR', 'TWN'],
+
+  'C. Asia' : ['KAZ', 'KGZ', 'TJK', 'TKM', 'UZB'],
+
+  'N. Europe' : ['ALA', 'DNK', 'EST', 'FRO', 'FIN', 'GGY', 'ISL', 'IRL', 'IMN', 'JEY', 'LVA', 'LTU', 'NOR', 'SJM', 'SWE', 'GBR'],
+
+  'S. Europe' : ['ALB', 'AND', 'BIH', 'HRV', 'GIB', 'GRC', 'VAT', 'ITA', 'MLT', 'MNE', 'MKD', 'PRT', 'SMR', 'SRB', 'SVN', 'ESP'],
+
+  'W. Europe' : ['AUT', 'BEL', 'FRA', 'DEU', 'LIE', 'LUX', 'MCO', 'NLD', 'CHE'],
+
+  'E. Europe' : ['BLR', 'BGR', 'CZE', 'HUN', 'POL', 'MDA', 'ROU', 'RUS', 'SVK', 'UKR'],
+
+  'N. Africa' : ['DZA', 'EGY', 'LBY', 'MAR', 'SDN', 'TUN', 'ESH'],
+
+  'M. Africa' : ['AGO', 'CMR', 'CAF', 'TCD', 'COG', 'COD', 'GNQ', 'GAB', 'STP'],
+
+  'W. Africa' : ['BEN', 'BFA', 'CPV', 'CIV', 'GMB', 'GHA', 'GIN', 'GNB', 'LBR', 'MLI', 'MRT', 'NER', 'NGA', 'SHN', 'SEN', 'SLE', 'TGO'],
+
+  'S. Africa' : ['BWA', 'SWZ', 'LSO', 'NAM', 'ZAF'],
+
+  'E. Africa' : ['IOT', 'BDI', 'COM', 'DJI', 'ERI', 'ETH', 'ATF', 'KEN', 'MDG', 'MWI', 'MUS', 'MYT', 'MOZ', 'REU', 'RWA', 'SYC', 'SOM', 'SSD', 'UGA', 'TZA', 'ZMB', 'ZWE'],
+
+  'N. America' : ['BMU', 'CAN', 'GRL', 'SPM', 'USA'],
+
+  'Caribbean' : ['AIA', 'ATG', 'ABW', 'BHS', 'BRB', 'BES', 'VGB', 'CYM', 'CUB', 'CUW', 'DMA', 'DOM', 'GRD', 'GLP', 'HTI', 'JAM', 'MTQ', 'MSR', 'PRI', 'BLM', 'KNA', 'LCA', 'MAF', 'VCT', 'SXM', 'TTO', 'TCA', 'VIR'],
+
+  'S. America' : ['ARG', 'BOL', 'BVT', 'BRA', 'CHL', 'COL', 'ECU', 'FLK', 'GUF', 'GUY', 'PRY', 'PER', 'SGS', 'SUR', 'URY', 'VEN'],
+
+  'C. America' : ['BLZ', 'CRI', 'SLV', 'GTM', 'HND', 'MEX', 'NIC', 'PAN'],
+
+  'Antarctica' : ['ATA'],
+
+  'OC' : ['ASM', 'AUS', 'CXR', 'CCK', 'COK', 'FJI', 'PYF', 'GUM', 'HMD', 'KIR', 'MHL', 'FSM', 'NRU', 'NCL', 'NZL', 'NIU', 'NFK', 'MNP', 'PLW', 'PNG', 'PCN', 'WSM', 'SLB', 'TKL', 'TON', 'TUV', 'UMI', 'VUT', 'WLF']
+}
+
+```
+
+
+
+```{python}
+#| warning: false
+
+# function that classify country by region, income group, and continent
+def assign_region(country_code):
+  for key, value in region.items():
+    if country_code.upper() in value:
+      return key
+  return "Unknown"
+
+
+# function that classify country by income group
+def assign_income(country_code):
+  for key, value in income.items():
+    if country_code.upper() in value:
+      return key
+  return "Unknown"
+
+
+# function that classify country by continent
+def assign_continent(country_code):
+  for key, value in continent.items():
+    if country_code.upper() in value:
+      return key
+  return "Unknown"
+
+```
+
+
+```{python}
+#| warning: false
+edu
+```
+
+```{python}
+#| warning: false
+
+def assignCategoryType(category):
+  if category in region.keys():
+    return "Region"
+  elif category in income.keys():
+    return "Income"
+  elif category in continent.keys():
+    return "Continent"
+  return "Unknown" 
+
+```
+
+```{python}
+#| warning: false
+
+# create 3 columns named Region, Income Group and Continent in the edu (education) dataframe
+edu['Region'] = edu['Country_Code'].apply(lambda row: assign_region(row))
+
+edu['Income'] = edu['Country_Code'].apply(lambda row: assign_income(row))
+
+edu['Continent'] = edu['Country_Code'].apply(lambda row: assign_continent(row))
+```
+
+```{python}
+#| warning: false
+# Melt Region and Income to one column named Category
+# edu = edu.melt(id_vars = ["Indicator_Name", "Indicator_Code", "Country_Name", "Country_Code", "Year", "Value"],  var_name = "Category_Type", value_name = "Category")
+
+# remove unknown regions, continents, and income groups
+
+# edu.drop(edu[edu['Category_Type'] == "Unknown"].index, inplace = True)
+
+# edu.drop(edu[edu['Category'] == "Unknown"].index, inplace = True)
+
+
+
+edu
+```
+
+
+
+## Selecting Education Indicators
+
+SE.ENR.PRSC.FM.ZS
+
+
+
+
+```{python}
+#| warning: false
+
+newEdu = edu.loc[edu['Indicator_Code'].isin(["SE.ENR.PRSC.FM.ZS"])]
+
+newEdu = newEdu.drop(['Indicator_Name', 'Country_Name', 'Country_Code', 'Indicator_Code'], axis = 1)
+
+newEdu = newEdu.groupby(['Year', 'Category']).agg(lambda x: x.mean())
+
+newEdu.reset_index(inplace = True)
+
+newEdu['Category_Type'] = newEdu['Category'].apply(lambda row : assignCategoryType(row))
+
+
+newEdu
+```
+
+```{python}
+edu
+```
+
+```{python}
+#| warning: false
+
+finEdu = edu.loc[edu['Indicator_Code'].isin(["SE.ENR.PRSC.FM.ZS"])]
+
+finEdu.drop(finEdu[finEdu['Income'] == "Unknown"].index, inplace = True)
+
+finEdu.drop(finEdu[finEdu['Continent'] == "Unknown"].index, inplace = True)
+
+finEdu = finEdu.drop(['Indicator_Name', 'Indicator_Code', 'Country_Name', 'Country_Code', 'Region'], axis = 1)
+
+finEdu.rename(columns = {'Value':'GPI'}, inplace = True)
+
+# growth rate (by continent)
+continent_gr = dict()
+
+for ctn in finEdu['Continent'].unique():
+    gpi = []
+    df = finEdu[finEdu['Continent'] == ctn]
+    years = sorted(df['Year'].unique(), reverse = True)
+    for yr in years: 
+        pastGPI = (df[df['Year'] == (yr - 1)])['GPI'].mean()
+        presentGPI = (df[df['Year'] == yr])['GPI'].mean()
+        growth_rate = (presentGPI - pastGPI) / pastGPI
+        gpi.append(growth_rate)
+    gpi = [x for x in gpi if ~np.isnan(x)]
+    continent_gr[ctn] = sum(gpi) / len(gpi)
+        
+        
+        
+# growth rate (by income group)
+income_gr = dict()
+
+for i in finEdu['Income'].unique():
+    gpi = []
+    df = finEdu[finEdu['Income'] == i]
+    years = sorted(df['Year'].unique(), reverse = True)
+    for yr in years: 
+        pastGPI = (df[df['Year'] == (yr - 1)])['GPI'].mean()
+        presentGPI = (df[df['Year'] == yr])['GPI'].mean()
+        growth_rate = (presentGPI - pastGPI) / pastGPI
+        gpi.append(growth_rate)
+    gpi = [x for x in gpi if ~np.isnan(x)]
+    income_gr[i] = sum(gpi) / len(gpi)
+    
+    
+    
+def assignGrowthRate(category):
+    if category in continent_gr.keys():
+        return continent_gr[category]
+    elif category in income_gr.keys():
+        return income_gr[category]
+    return 'Unknown'
+
+
+finEdu['Continent_GR'] = finEdu['Continent'].apply(lambda row: assignGrowthRate(row))
+
+finEdu['Income_GR'] = finEdu['Income'].apply(lambda row: assignGrowthRate(row))
+
+finEdu
+
+finEdu.to_csv("../../data/cleaned/edu_tmp.csv", index = False)
+```
+
+```{python}
+finEdu
+```
+
+
+```{python}
+#| warning: false
+
+edu.to_csv("../../data/cleaned/edu_all_clean.csv", index = False)
+
+# newEdu.to_csv("../../data/cleaned/edu_plot_clean.csv", index = False)
+```
+
+

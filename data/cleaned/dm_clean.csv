@@ -1,0 +1,90 @@
+geo,Men,Women,category
+Albania,6,0,Academics
+Austria,5,0,Academics
+Belgium,45,26,Academics
+Bosnia and Herzegovina,13,4,Academics
+Bulgaria,13,15,Academics
+Croatia,16,2,Academics
+Cyprus,5,0,Academics
+Czech Republic,11,7,Academics
+Denmark,5,2,Academics
+EEA countries (non-EU),3,5,Academics
+Estonia,11,2,Academics
+Finland,28,14,Academics
+France,36,5,Academics
+Germany,9,3,Academics
+Greece,8,2,Academics
+Hungary,34,4,Academics
+Ireland,12,13,Academics
+Italy,8,1,Academics
+Kosovo,6,3,Academics
+Latvia,19,7,Academics
+Lithuania,9,0,Academics
+Luxembourg,1,0,Academics
+Montenegro,9,0,Academics
+Netherlands,4,4,Academics
+North Macedonia,11,1,Academics
+Norway,3,5,Academics
+Poland,47,8,Academics
+Portugal,7,1,Academics
+Romania,7,0,Academics
+Serbia,15,0,Academics
+Slovakia,21,2,Academics
+Slovenia,12,2,Academics
+Spain,83,15,Academics
+Sweden,42,25,Academics
+Turkey,11,1,Academics
+United Kingdom,56,41,Academics
+Albania,7,1,Judiciary
+Austria,36,25,Judiciary
+Belgium,19,11,Judiciary
+Bosnia and Herzegovina,28,25,Judiciary
+Bulgaria,23,72,Judiciary
+Croatia,25,12,Judiciary
+Cyprus,10,4,Judiciary
+Czechia,61,10,Judiciary
+Denmark,15,4,Judiciary
+EEA countries (non-EU),24,12,Judiciary
+Estonia,15,5,Judiciary
+Finland,16,6,Judiciary
+France,60,65,Judiciary
+Germany,96,57,Judiciary
+Greece,53,27,Judiciary
+Hungary,35,55,Judiciary
+Iceland,6,2,Judiciary
+Ireland,7,2,Judiciary
+Italy,234,127,Judiciary
+Kosovo,12,4,Judiciary
+Latvia,12,21,Judiciary
+Liechtenstein,6,1,Judiciary
+Lithuania,18,12,Judiciary
+Luxembourg,3,2,Judiciary
+Malta,9,2,Judiciary
+Montenegro,4,11,Judiciary
+Netherlands,21,15,Judiciary
+North Macedonia,10,11,Judiciary
+Norway,12,9,Judiciary
+Poland,75,22,Judiciary
+Portugal,39,19,Judiciary
+Romania,25,84,Judiciary
+Serbia,15,27,Judiciary
+Slovakia,43,43,Judiciary
+Slovenia,18,12,Judiciary
+Spain,60,14,Judiciary
+Sweden,12,5,Judiciary
+Turkey,331,47,Judiciary
+United Kingdom,11,2,Judiciary
+Agriculture,72,45,Business
+Fishing,162,94,Business
+Mining,1772,673,Business
+Manufacturing,16349,6803,Business
+Engergy and Utilities,4710,1770,Business
+Construction,1675,510,Business
+Retail and Repair,2516,1060,Business
+Hospitality,1358,338,Business
+Transportation,6421,2600,Business
+Financial intermediation,11234,4751,Business
+Real Estate,2740,1235,Business
+Public Administration ,134,38,Business
+Health Services,460,170,Business
+Social Services,283,100,Business

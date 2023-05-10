@@ -1,0 +1,159 @@
+	continent	name	iso_a3	Country	Gender_Inequality_Index
+0	Oceania	Fiji	FJI	Fiji	0.318
+1	Africa	Tanzania	TZA	Tanzania	0.56
+3	North America	Canada	CAN	Canada	0.069
+4	North America	United States of America	USA	United States of America	0.179
+5	Asia	Kazakhstan	KAZ	Kazakhstan	0.161
+6	Asia	Uzbekistan	UZB	Uzbekistan	0.227
+7	Oceania	Papua New Guinea	PNG	Papua New Guinea	0.725
+8	Asia	Indonesia	IDN	Indonesia	0.444
+9	South America	Argentina	ARG	Argentina	0.287
+10	South America	Chile	CHL	Chile	0.187
+11	Africa	Dem. Rep. Congo	COD	Dem. Rep. Congo	0.601
+13	Africa	Kenya	KEN	Kenya	0.506
+14	Africa	Sudan	SDN	Sudan	0.553
+15	Africa	Chad	TCD	Chad	0.652
+16	North America	Haiti	HTI	Haiti	0.635
+17	North America	Dominican Rep.	DOM	Dominican Rep.	0.429
+18	Europe	Russia	RUS	Russia	0.203
+19	North America	Bahamas	BHS	Bahamas	0.329
+21	Europe	Norway	NOR	Norway	0.016
+24	Asia	Timor-Leste	TLS	Timor-Leste	0.378
+25	Africa	South Africa	ZAF	South Africa	0.405
+26	Africa	Lesotho	LSO	Lesotho	0.557
+27	North America	Mexico	MEX	Mexico	0.309
+28	South America	Uruguay	URY	Uruguay	0.235
+29	South America	Brazil	BRA	Brazil	0.39
+30	South America	Bolivia	BOL	Bolivia	0.418
+31	South America	Peru	PER	Peru	0.38
+32	South America	Colombia	COL	Colombia	0.424
+33	North America	Panama	PAN	Panama	0.392
+34	North America	Costa Rica	CRI	Costa Rica	0.256
+35	North America	Nicaragua	NIC	Nicaragua	0.424
+36	North America	Honduras	HND	Honduras	0.431
+37	North America	El Salvador	SLV	El Salvador	0.376
+38	North America	Guatemala	GTM	Guatemala	0.481
+39	North America	Belize	BLZ	Belize	0.364
+40	South America	Venezuela	VEN	Venezuela	0.492
+41	South America	Guyana	GUY	Guyana	0.454
+42	South America	Suriname	SUR	Suriname	0.427
+43	Europe	France	FRA	France	0.083
+44	South America	Ecuador	ECU	Ecuador	0.362
+46	North America	Jamaica	JAM	Jamaica	0.335
+47	North America	Cuba	CUB	Cuba	0.303
+48	Africa	Zimbabwe	ZWE	Zimbabwe	0.532
+49	Africa	Botswana	BWA	Botswana	0.468
+50	Africa	Namibia	NAM	Namibia	0.445
+51	Africa	Senegal	SEN	Senegal	0.53
+52	Africa	Mali	MLI	Mali	0.613
+53	Africa	Mauritania	MRT	Mauritania	0.632
+54	Africa	Benin	BEN	Benin	0.602
+55	Africa	Niger	NER	Niger	0.611
+56	Africa	Nigeria	NGA	Nigeria	0.68
+57	Africa	Cameroon	CMR	Cameroon	0.565
+58	Africa	Togo	TGO	Togo	0.58
+59	Africa	Ghana	GHA	Ghana	0.529
+60	Africa	Côte d'Ivoire	CIV	Côte d'Ivoire	0.613
+61	Africa	Guinea	GIN	Guinea	0.621
+62	Africa	Guinea-Bissau	GNB	Guinea-Bissau	0.627
+63	Africa	Liberia	LBR	Liberia	0.648
+64	Africa	Sierra Leone	SLE	Sierra Leone	0.633
+65	Africa	Burkina Faso	BFA	Burkina Faso	0.621
+66	Africa	Central African Rep.	CAF	Central African Rep.	0.672
+67	Africa	Congo	COG	Congo	0.564
+68	Africa	Gabon	GAB	Gabon	0.541
+70	Africa	Zambia	ZMB	Zambia	0.54
+71	Africa	Malawi	MWI	Malawi	0.554
+72	Africa	Mozambique	MOZ	Mozambique	0.537
+73	Africa	eSwatini	SWZ	eSwatini	0.54
+74	Africa	Angola	AGO	Angola	0.537
+75	Africa	Burundi	BDI	Burundi	0.505
+76	Asia	Israel	ISR	Israel	0.083
+77	Asia	Lebanon	LBN	Lebanon	0.432
+78	Africa	Madagascar	MDG	Madagascar	0.556
+80	Africa	Gambia	GMB	Gambia	0.611
+81	Africa	Tunisia	TUN	Tunisia	0.259
+82	Africa	Algeria	DZA	Algeria	0.499
+83	Asia	Jordan	JOR	Jordan	0.471
+84	Asia	United Arab Emirates	ARE	United Arab Emirates	0.049
+85	Asia	Qatar	QAT	Qatar	0.22
+86	Asia	Kuwait	KWT	Kuwait	0.305
+87	Asia	Iraq	IRQ	Iraq	0.558
+88	Asia	Oman	OMN	Oman	0.3
+90	Asia	Cambodia	KHM	Cambodia	0.461
+91	Asia	Thailand	THA	Thailand	0.333
+92	Asia	Laos	LAO	Laos	0.478
+93	Asia	Myanmar	MMR	Myanmar	0.498
+94	Asia	Vietnam	VNM	Vietnam	0.296
+96	Asia	South Korea	KOR	South Korea	0.067
+97	Asia	Mongolia	MNG	Mongolia	0.313
+98	Asia	India	IND	India	0.49
+99	Asia	Bangladesh	BGD	Bangladesh	0.53
+100	Asia	Bhutan	BTN	Bhutan	0.415
+101	Asia	Nepal	NPL	Nepal	0.452
+102	Asia	Pakistan	PAK	Pakistan	0.534
+103	Asia	Afghanistan	AFG	Afghanistan	0.678
+104	Asia	Tajikistan	TJK	Tajikistan	0.285
+105	Asia	Kyrgyzstan	KGZ	Kyrgyzstan	0.37
+106	Asia	Turkmenistan	TKM	Turkmenistan	0.177
+107	Asia	Iran	IRN	Iran	0.459
+108	Asia	Syria	SYR	Syria	0.477
+109	Asia	Armenia	ARM	Armenia	0.216
+110	Europe	Sweden	SWE	Sweden	0.023
+111	Europe	Belarus	BLR	Belarus	0.104
+112	Europe	Ukraine	UKR	Ukraine	0.2
+113	Europe	Poland	POL	Poland	0.109
+114	Europe	Austria	AUT	Austria	0.053
+115	Europe	Hungary	HUN	Hungary	0.221
+116	Europe	Moldova	MDA	Moldova	0.205
+117	Europe	Romania	ROU	Romania	0.282
+118	Europe	Lithuania	LTU	Lithuania	0.105
+119	Europe	Latvia	LVA	Latvia	0.151
+120	Europe	Estonia	EST	Estonia	0.1
+121	Europe	Germany	DEU	Germany	0.073
+122	Europe	Bulgaria	BGR	Bulgaria	0.21
+123	Europe	Greece	GRC	Greece	0.119
+124	Asia	Turkey	TUR	Turkey	0.272
+125	Europe	Albania	ALB	Albania	0.144
+126	Europe	Croatia	HRV	Croatia	0.093
+127	Europe	Switzerland	CHE	Switzerland	0.018
+128	Europe	Luxembourg	LUX	Luxembourg	0.044
+129	Europe	Belgium	BEL	Belgium	0.048
+130	Europe	Netherlands	NLD	Netherlands	0.025
+131	Europe	Portugal	PRT	Portugal	0.067
+132	Europe	Spain	ESP	Spain	0.057
+133	Europe	Ireland	IRL	Ireland	0.074
+136	Oceania	New Zealand	NZL	New Zealand	0.088
+137	Oceania	Australia	AUS	Australia	0.073
+138	Asia	Sri Lanka	LKA	Sri Lanka	0.383
+139	Asia	China	CHN	China	0.192
+141	Europe	Italy	ITA	Italy	0.056
+142	Europe	Denmark	DNK	Denmark	0.013
+143	Europe	United Kingdom	GBR	United Kingdom	0.098
+144	Europe	Iceland	ISL	Iceland	0.043
+145	Asia	Azerbaijan	AZE	Azerbaijan	0.294
+146	Asia	Georgia	GEO	Georgia	0.28
+147	Asia	Philippines	PHL	Philippines	0.419
+148	Asia	Malaysia	MYS	Malaysia	0.228
+149	Asia	Brunei	BRN	Brunei	0.259
+150	Europe	Slovenia	SVN	Slovenia	0.071
+151	Europe	Finland	FIN	Finland	0.033
+152	Europe	Slovakia	SVK	Slovakia	0.18
+153	Europe	Czechia	CZE	Czechia	0.12
+155	Asia	Japan	JPN	Japan	0.083
+156	South America	Paraguay	PRY	Paraguay	0.445
+157	Asia	Yemen	YEM	Yemen	0.82
+158	Asia	Saudi Arabia	SAU	Saudi Arabia	0.247
+160	Asia	N. Cyprus	CYN	N. Cyprus	0.123
+162	Africa	Morocco	MAR	Morocco	0.425
+163	Africa	Egypt	EGY	Egypt	0.443
+164	Africa	Libya	LBY	Libya	0.259
+165	Africa	Ethiopia	ETH	Ethiopia	0.52
+168	Africa	Uganda	UGA	Uganda	0.53
+169	Africa	Rwanda	RWA	Rwanda	0.388
+170	Europe	Bosnia and Herz.	BIH	Bosnia and Herz.	0.136
+171	Europe	North Macedonia	MKD	North Macedonia	0.134
+172	Europe	Serbia	SRB	Serbia	0.131
+173	Europe	Montenegro	MNE	Montenegro	0.119
+175	North America	Trinidad and Tobago	TTO	Trinidad and Tobago	0.344
+176	Africa	S. Sudan	SSD	S. Sudan	0.587

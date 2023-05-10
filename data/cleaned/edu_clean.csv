@@ -1,0 +1,520 @@
+Year,Category,Value,Type
+1970,Africa,0.842538014,Continent
+1970,Asia,0.561158009,Continent
+1970,High Income,1.006731659,Income
+1970,Low Income,0.446116666,Income
+1970,Lower-middle Income,0.793778666,Income
+1970,North America,0.95404166,Continent
+1970,Oceania,0.851837124,Continent
+1970,South America,0.975536674,Continent
+1970,Upper-middle Income,0.948608011,Income
+1971,Africa,0.613215947,Continent
+1971,Asia,0.679519596,Continent
+1971,Europe,0.971841499,Continent
+1971,High Income,0.946045001,Income
+1971,Low Income,0.479369996,Income
+1971,Lower-middle Income,0.664358232,Income
+1971,North America,0.971126932,Continent
+1971,Oceania,0.893884997,Continent
+1971,South America,0.975733995,Continent
+1971,Upper-middle Income,0.879797721,Income
+1972,Africa,0.672849727,Continent
+1972,Asia,0.687898183,Continent
+1972,Europe,0.976190996,Continent
+1972,High Income,0.962792194,Income
+1972,Low Income,0.514219443,Income
+1972,Lower-middle Income,0.731130001,Income
+1972,North America,1.007238124,Continent
+1972,Oceania,0.947472862,Continent
+1972,South America,0.997797774,Continent
+1972,Upper-middle Income,0.915134778,Income
+1973,Africa,0.675126967,Continent
+1973,Asia,0.737250422,Continent
+1973,Europe,0.984223503,Continent
+1973,High Income,0.968870468,Income
+1973,Low Income,0.495260711,Income
+1973,Lower-middle Income,0.725984446,Income
+1973,North America,1.005494006,Continent
+1973,Oceania,0.952182855,Continent
+1973,South America,1.002992226,Continent
+1973,Upper-middle Income,0.921735657,Income
+1974,Africa,0.669172498,Continent
+1974,Asia,0.748509093,Continent
+1974,Europe,0.9812325,Continent
+1974,High Income,0.973181948,Income
+1974,Low Income,0.525196667,Income
+1974,Lower-middle Income,0.674339093,Income
+1974,North America,1.007419328,Continent
+1974,Oceania,0.897648325,Continent
+1974,South America,1.006222844,Continent
+1974,Upper-middle Income,0.929937389,Income
+1975,Africa,0.718196781,Continent
+1975,Asia,0.776824288,Continent
+1975,Europe,0.99222474,Continent
+1975,High Income,0.978701545,Income
+1975,Low Income,0.529839991,Income
+1975,Lower-middle Income,0.764758801,Income
+1975,North America,1.010894392,Continent
+1975,Oceania,0.889875719,Continent
+1975,South America,0.993472849,Continent
+1975,Upper-middle Income,0.949661429,Income
+1976,Africa,0.712025309,Continent
+1976,Asia,0.793743704,Continent
+1976,Europe,0.981770501,Continent
+1976,High Income,0.978276317,Income
+1976,Low Income,0.551412353,Income
+1976,Lower-middle Income,0.791425384,Income
+1976,North America,1.013336915,Continent
+1976,Oceania,0.919598341,Continent
+1976,South America,0.997860006,Continent
+1976,Upper-middle Income,0.933404995,Income
+1977,Africa,0.729973874,Continent
+1977,Asia,0.768115931,Continent
+1977,Europe,1.000343153,Continent
+1977,High Income,0.981316585,Income
+1977,Low Income,0.576688667,Income
+1977,Lower-middle Income,0.778755337,Income
+1977,North America,1.011643145,Continent
+1977,Oceania,0.92401857,Continent
+1977,South America,0.980842871,Continent
+1977,Upper-middle Income,0.941339175,Income
+1978,Africa,0.726760617,Continent
+1978,Asia,0.804553036,Continent
+1978,Europe,0.99231714,Continent
+1978,High Income,0.979373846,Income
+1978,Low Income,0.568934112,Income
+1978,Lower-middle Income,0.801284757,Income
+1978,North America,0.974410837,Continent
+1978,Oceania,0.976556015,Continent
+1978,South America,0.997828744,Continent
+1978,Upper-middle Income,0.93598416,Income
+1979,Africa,0.735262724,Continent
+1979,Asia,0.830483811,Continent
+1979,Europe,0.995061897,Continent
+1979,High Income,0.976913747,Income
+1979,Low Income,0.611577646,Income
+1979,Lower-middle Income,0.819542497,Income
+1979,North America,1.008957867,Continent
+1979,Oceania,1.004260023,Continent
+1979,South America,0.99719286,Continent
+1979,Upper-middle Income,0.947929553,Income
+1980,Africa,0.737606328,Continent
+1980,Asia,0.850881423,Continent
+1980,Europe,0.994348502,Continent
+1980,High Income,0.985159189,Income
+1980,Low Income,0.607560001,Income
+1980,Lower-middle Income,0.823504539,Income
+1980,North America,1.003563574,Continent
+1980,Oceania,0.981734014,Continent
+1980,South America,0.989609993,Continent
+1980,Upper-middle Income,0.95756619,Income
+1981,Africa,0.740460558,Continent
+1981,Asia,0.817242308,Continent
+1981,Europe,0.993016002,Continent
+1981,High Income,0.984506219,Income
+1981,Low Income,0.603679413,Income
+1981,Lower-middle Income,0.778132965,Income
+1981,North America,1.015338467,Continent
+1981,Oceania,0.974452031,Continent
+1981,South America,0.994807994,Continent
+1981,Upper-middle Income,0.969038702,Income
+1982,Africa,0.750208126,Continent
+1982,Asia,0.839917927,Continent
+1982,Europe,1.001635236,Continent
+1982,High Income,0.990212899,Income
+1982,Low Income,0.630350005,Income
+1982,Lower-middle Income,0.824416405,Income
+1982,North America,1.018588666,Continent
+1982,Oceania,0.986646692,Continent
+1982,South America,0.985325009,Continent
+1982,Upper-middle Income,0.95275,Income
+1983,Africa,0.756115162,Continent
+1983,Asia,0.861758755,Continent
+1983,Europe,1.00236392,Continent
+1983,High Income,0.99216147,Income
+1983,Low Income,0.621460763,Income
+1983,Lower-middle Income,0.815126542,Income
+1983,North America,1.008571867,Continent
+1983,Oceania,1.00079002,Continent
+1983,South America,1.01497666,Continent
+1983,Upper-middle Income,0.970484996,Income
+1984,Africa,0.732922659,Continent
+1984,Asia,0.831393467,Continent
+1984,Europe,0.998724761,Continent
+1984,High Income,0.990659743,Income
+1984,Low Income,0.61260466,Income
+1984,Lower-middle Income,0.795294445,Income
+1984,North America,1.019648226,Continent
+1984,Oceania,0.95536803,Continent
+1984,South America,1.012204985,Continent
+1984,Upper-middle Income,0.973998259,Income
+1985,Africa,0.744857101,Continent
+1985,Asia,0.856645653,Continent
+1985,Europe,1.005720988,Continent
+1985,High Income,0.993987739,Income
+1985,Low Income,0.605789338,Income
+1985,Lower-middle Income,0.814726955,Income
+1985,North America,1.02374866,Continent
+1985,Oceania,0.991271996,Continent
+1985,South America,1.006412847,Continent
+1985,Upper-middle Income,0.982715913,Income
+1986,Africa,0.777059392,Continent
+1986,Asia,0.854166927,Continent
+1986,Europe,1.000041425,Continent
+1986,High Income,0.990491624,Income
+1986,Low Income,0.66675866,Income
+1986,Lower-middle Income,0.816146432,Income
+1986,North America,1.015589345,Continent
+1986,Oceania,0.932865004,Continent
+1986,South America,1.014838748,Continent
+1986,Upper-middle Income,0.976707037,Income
+1987,Africa,0.767487575,Continent
+1987,Asia,0.87893826,Continent
+1987,Europe,1.0066935,Continent
+1987,High Income,1.00199914,Income
+1987,Low Income,0.639628461,Income
+1987,Lower-middle Income,0.815526296,Income
+1987,North America,1.026146429,Continent
+1987,Oceania,0.947970003,Continent
+1987,South America,1.01847572,Continent
+1987,Upper-middle Income,0.980105205,Income
+1988,Africa,0.80927125,Continent
+1988,Asia,0.868681477,Continent
+1988,Europe,1.004208188,Continent
+1988,High Income,1.001231112,Income
+1988,Low Income,0.693830709,Income
+1988,Lower-middle Income,0.845331338,Income
+1988,North America,1.019305462,Continent
+1988,Oceania,0.933386664,Continent
+1988,South America,1.029873341,Continent
+1988,Upper-middle Income,0.973003998,Income
+1989,Africa,0.787009088,Continent
+1989,Asia,0.894102079,Continent
+1989,Europe,0.999198185,Continent
+1989,High Income,1.001308156,Income
+1989,Low Income,0.655942859,Income
+1989,Lower-middle Income,0.85224357,Income
+1989,North America,1.025640899,Continent
+1989,Oceania,0.967394006,Continent
+1989,South America,1.029323983,Continent
+1989,Upper-middle Income,0.974796308,Income
+1990,Africa,0.798098999,Continent
+1990,Asia,0.909872397,Continent
+1990,Europe,0.997977736,Continent
+1990,High Income,1.000957185,Income
+1990,Low Income,0.687727145,Income
+1990,Lower-middle Income,0.84222346,Income
+1990,North America,1.001788177,Continent
+1990,Oceania,0.968947507,Continent
+1990,South America,1.051323374,Continent
+1990,Upper-middle Income,1.000359502,Income
+1991,Africa,0.809239174,Continent
+1991,Asia,0.935223758,Continent
+1991,Europe,1.003374771,Continent
+1991,High Income,1.003474864,Income
+1991,Low Income,0.676820778,Income
+1991,Lower-middle Income,0.89941572,Income
+1991,North America,1.009479995,Continent
+1991,Oceania,0.959748891,Continent
+1991,South America,1.024755001,Continent
+1991,Upper-middle Income,1.000242004,Income
+1992,Africa,0.809355007,Continent
+1992,Asia,0.952554237,Continent
+1992,Europe,1.010202073,Continent
+1992,High Income,1.008731396,Income
+1992,Low Income,0.71119084,Income
+1992,Lower-middle Income,0.874939563,Income
+1992,North America,1.009867278,Continent
+1992,Oceania,0.956750001,Continent
+1992,South America,1.052082494,Continent
+1992,Upper-middle Income,1.000796676,Income
+1993,Africa,0.810592272,Continent
+1993,Asia,0.929718334,Continent
+1993,Europe,1.011738,Continent
+1993,High Income,1.009283548,Income
+1993,Low Income,0.680146657,Income
+1993,Lower-middle Income,0.887717491,Income
+1993,North America,0.995883576,Continent
+1993,Oceania,0.955933332,Continent
+1993,South America,1.024211675,Continent
+1993,Upper-middle Income,0.98151731,Income
+1994,Africa,0.816529627,Continent
+1994,Asia,0.933367046,Continent
+1994,Europe,1.009804839,Continent
+1994,High Income,1.011594323,Income
+1994,Low Income,0.669432144,Income
+1994,Lower-middle Income,0.905686668,Income
+1994,North America,1.007400006,Continent
+1994,Oceania,0.958442008,Continent
+1994,South America,1.030615002,Continent
+1994,Upper-middle Income,0.980539003,Income
+1995,Africa,0.811625654,Continent
+1995,Asia,0.933245422,Continent
+1995,Europe,1.009496997,Continent
+1995,High Income,1.010426904,Income
+1995,Low Income,0.67459,Income
+1995,Lower-middle Income,0.890829504,Income
+1995,North America,0.99857286,Continent
+1995,Oceania,0.991703987,Continent
+1995,South America,1.024612486,Continent
+1995,Upper-middle Income,0.988201661,Income
+1996,Africa,0.812482921,Continent
+1996,Asia,0.952845499,Continent
+1996,Europe,1.011676331,Continent
+1996,High Income,1.011822561,Income
+1996,Low Income,0.67205801,Income
+1996,Lower-middle Income,0.89503278,Income
+1996,North America,0.970556666,Continent
+1996,Oceania,1.03402251,Continent
+1996,South America,1.01136747,Continent
+1996,Upper-middle Income,0.980834732,Income
+1997,Africa,0.823906109,Continent
+1997,Asia,0.970330553,Continent
+1997,Europe,1.008664168,Continent
+1997,High Income,1.016683,Income
+1997,Low Income,0.703172858,Income
+1997,Lower-middle Income,0.903147328,Income
+1997,North America,1.022410011,Continent
+1997,Oceania,1.038913329,Continent
+1997,South America,1.011444986,Continent
+1997,Upper-middle Income,0.987316251,Income
+1998,Africa,0.872875992,Continent
+1998,Asia,0.976953884,Continent
+1998,Europe,1.008415671,Continent
+1998,High Income,1.013124636,Income
+1998,Low Income,0.679487512,Income
+1998,Lower-middle Income,0.930967883,Income
+1998,North America,0.995548747,Continent
+1998,Oceania,0.997435706,Continent
+1998,South America,1.014703743,Continent
+1998,Upper-middle Income,1.002290905,Income
+1999,Africa,0.837339423,Continent
+1999,Asia,0.939807569,Continent
+1999,Europe,1.002975713,Continent
+1999,High Income,1.004829034,Income
+1999,Low Income,0.705946426,Income
+1999,Lower-middle Income,0.910878941,Income
+1999,North America,0.999682624,Continent
+1999,Oceania,1.003981107,Continent
+1999,South America,1.011587989,Continent
+1999,Upper-middle Income,0.99239823,Income
+2000,Africa,0.843535624,Continent
+2000,Asia,0.958914845,Continent
+2000,Europe,1.009473423,Continent
+2000,High Income,1.01705923,Income
+2000,Low Income,0.741312311,Income
+2000,Lower-middle Income,0.924001175,Income
+2000,North America,1.012940997,Continent
+2000,Oceania,1.025970009,Continent
+2000,South America,1.010467768,Continent
+2000,Upper-middle Income,0.988264115,Income
+2001,Africa,0.854932049,Continent
+2001,Asia,0.919184198,Continent
+2001,Europe,1.009330567,Continent
+2001,High Income,1.014544898,Income
+2001,Low Income,0.691964369,Income
+2001,Lower-middle Income,0.928863137,Income
+2001,North America,1.010989454,Continent
+2001,Oceania,1.022368559,Continent
+2001,South America,1.012646675,Continent
+2001,Upper-middle Income,0.997767422,Income
+2002,Africa,0.873427345,Continent
+2002,Asia,0.965845558,Continent
+2002,Europe,1.008107879,Continent
+2002,High Income,1.010113602,Income
+2002,Low Income,0.775409086,Income
+2002,Lower-middle Income,0.924948606,Income
+2002,North America,1.013824999,Continent
+2002,Oceania,1.004791121,Continent
+2002,South America,1.021119085,Continent
+2002,Upper-middle Income,1.004099706,Income
+2003,Africa,0.882478183,Continent
+2003,Asia,0.940494524,Continent
+2003,Europe,1.003921429,Continent
+2003,High Income,1.00686163,Income
+2003,Low Income,0.736643574,Income
+2003,Lower-middle Income,0.945060004,Income
+2003,North America,1.013144,Continent
+2003,Oceania,1.020400013,Continent
+2003,South America,1.010882225,Continent
+2003,Upper-middle Income,0.998763345,Income
+2004,Africa,0.874820282,Continent
+2004,Asia,0.942633337,Continent
+2004,Europe,0.998817148,Continent
+2004,High Income,1.004033658,Income
+2004,Low Income,0.767566478,Income
+2004,Lower-middle Income,0.943663897,Income
+2004,North America,1.006617396,Continent
+2004,Oceania,1.012433337,Continent
+2004,South America,1.014451003,Continent
+2004,Upper-middle Income,0.994489997,Income
+2005,Africa,0.896909712,Continent
+2005,Asia,0.957696868,Continent
+2005,Europe,0.996077291,Continent
+2005,High Income,0.999548565,Income
+2005,Low Income,0.790354115,Income
+2005,Lower-middle Income,0.960809999,Income
+2005,North America,1.004147912,Continent
+2005,Oceania,1.029784288,Continent
+2005,South America,1.022875001,Continent
+2005,Upper-middle Income,1.009324718,Income
+2006,Africa,0.902895452,Continent
+2006,Asia,0.971061822,Continent
+2006,Europe,0.999750003,Continent
+2006,High Income,1.002493654,Income
+2006,Low Income,0.813504376,Income
+2006,Lower-middle Income,0.961367425,Income
+2006,North America,1.002781659,Continent
+2006,Oceania,1.007339984,Continent
+2006,South America,1.028967994,Continent
+2006,Upper-middle Income,1.009074686,Income
+2007,Africa,0.89062031,Continent
+2007,Asia,0.95682534,Continent
+2007,Europe,0.998363248,Continent
+2007,High Income,0.998129802,Income
+2007,Low Income,0.814847221,Income
+2007,Lower-middle Income,0.963602815,Income
+2007,North America,1.006364546,Continent
+2007,Oceania,0.995121256,Continent
+2007,South America,1.020556663,Continent
+2007,Upper-middle Income,1.000397953,Income
+2008,Africa,0.91345188,Continent
+2008,Asia,0.959664514,Continent
+2008,Europe,1.000402104,Continent
+2008,High Income,1.001977551,Income
+2008,Low Income,0.832505885,Income
+2008,Lower-middle Income,0.96482,Income
+2008,North America,1.001277889,Continent
+2008,Oceania,1.029045006,Continent
+2008,South America,1.028224533,Continent
+2008,Upper-middle Income,1.009428854,Income
+2009,Africa,0.917018793,Continent
+2009,Asia,0.972652583,Continent
+2009,Europe,0.998382217,Continent
+2009,High Income,1.000711452,Income
+2009,Low Income,0.849381769,Income
+2009,Lower-middle Income,0.969507354,Income
+2009,North America,0.998800556,Continent
+2009,Oceania,1.045966005,Continent
+2009,South America,1.025252486,Continent
+2009,Upper-middle Income,1.010846473,Income
+2010,Africa,0.932608549,Continent
+2010,Asia,0.972634079,Continent
+2010,Europe,0.99404162,Continent
+2010,High Income,0.998942037,Income
+2010,Low Income,0.863210387,Income
+2010,Lower-middle Income,0.981096233,Income
+2010,North America,1.001982495,Continent
+2010,Oceania,1.005982029,Continent
+2010,South America,1.027157263,Continent
+2010,Upper-middle Income,1.006851567,Income
+2011,Africa,0.905636992,Continent
+2011,Asia,0.9728537,Continent
+2011,Europe,0.995005411,Continent
+2011,High Income,0.999495686,Income
+2011,Low Income,0.85090023,Income
+2011,Lower-middle Income,0.962265174,Income
+2011,North America,1.004376501,Continent
+2011,Oceania,1.013812006,Continent
+2011,South America,1.024836367,Continent
+2011,Upper-middle Income,1.008519091,Income
+2012,Africa,0.936300285,Continent
+2012,Asia,0.975012024,Continent
+2012,Europe,0.994741579,Continent
+2012,High Income,1.002654032,Income
+2012,Low Income,0.871121554,Income
+2012,Lower-middle Income,0.978311895,Income
+2012,North America,1.010038876,Continent
+2012,Oceania,0.992315718,Continent
+2012,South America,1.023588181,Continent
+2012,Upper-middle Income,1.008149693,Income
+2013,Africa,0.947854996,Continent
+2013,Asia,0.982945397,Continent
+2013,Europe,1.001703026,Continent
+2013,High Income,1.011056452,Income
+2013,Low Income,0.894211815,Income
+2013,Lower-middle Income,0.973990703,Income
+2013,North America,1.004239986,Continent
+2013,Oceania,1.015096664,Continent
+2013,South America,1.026984427,Continent
+2013,Upper-middle Income,1.006536128,Income
+2014,Africa,0.942298914,Continent
+2014,Asia,0.992246366,Continent
+2014,Europe,0.998849423,Continent
+2014,High Income,1.002424893,Income
+2014,Low Income,0.884767241,Income
+2014,Lower-middle Income,0.982340886,Income
+2014,North America,0.997421054,Continent
+2014,Oceania,1.017700945,Continent
+2014,South America,1.026764439,Continent
+2014,Upper-middle Income,1.010611899,Income
+2015,Africa,0.934098009,Continent
+2015,Asia,0.990488348,Continent
+2015,Europe,0.999782981,Continent
+2015,High Income,1.002884853,Income
+2015,Low Income,0.878429559,Income
+2015,Lower-middle Income,0.984080801,Income
+2015,North America,0.996943884,Continent
+2015,Oceania,1.014121294,Continent
+2015,South America,1.023237785,Continent
+2015,Upper-middle Income,1.005996403,Income
+2016,Africa,0.953494293,Continent
+2016,Asia,0.984233243,Continent
+2016,Europe,0.998118053,Continent
+2016,High Income,0.998457686,Income
+2016,Low Income,0.888317067,Income
+2016,Lower-middle Income,0.988869328,Income
+2016,North America,0.999748,Continent
+2016,Oceania,1.010674323,Continent
+2016,South America,1.005162507,Continent
+2016,Upper-middle Income,1.005391623,Income
+2017,Africa,0.959204811,Continent
+2017,Asia,0.993830977,Continent
+2017,Europe,0.995938211,Continent
+2017,High Income,0.998666484,Income
+2017,Low Income,0.897536774,Income
+2017,Lower-middle Income,0.998499588,Income
+2017,North America,0.999478666,Continent
+2017,Oceania,0.987565011,Continent
+2017,South America,1.007373346,Continent
+2017,Upper-middle Income,1.001313116,Income
+2018,Africa,0.96684566,Continent
+2018,Asia,0.99618463,Continent
+2018,Europe,0.998188971,Continent
+2018,High Income,1.00145245,Income
+2018,Low Income,0.904260422,Income
+2018,Lower-middle Income,0.988383997,Income
+2018,North America,1.001002002,Continent
+2018,Oceania,0.986891448,Continent
+2018,South America,1.005763747,Continent
+2018,Upper-middle Income,1.00592969,Income
+2019,Africa,0.985319817,Continent
+2019,Asia,1.001076337,Continent
+2019,Europe,0.9996685,Continent
+2019,High Income,1.002116419,Income
+2019,Low Income,0.935646945,Income
+2019,Lower-middle Income,1.002837771,Income
+2019,North America,1.002997274,Continent
+2019,Oceania,1.013628354,Continent
+2019,South America,1.005781256,Continent
+2019,Upper-middle Income,1.005140999,Income
+2020,Africa,1.000446037,Continent
+2020,Asia,1.008834284,Continent
+2020,Europe,1.002196923,Continent
+2020,High Income,1.004828269,Income
+2020,Low Income,0.981444144,Income
+2020,Lower-middle Income,1.01185827,Income
+2020,North America,1.011596152,Continent
+2020,Oceania,1.022643179,Continent
+2020,South America,1.004505001,Continent
+2020,Upper-middle Income,1.007707964,Income
+2021,Africa,0.998347942,Continent
+2021,Asia,1.009881863,Continent
+2021,Europe,1.000895722,Continent
+2021,High Income,0.998293454,Income
+2021,Low Income,0.976720262,Income
+2021,Lower-middle Income,1.007789687,Income
+2021,North America,0.997453107,Continent
+2021,Oceania,1.012318651,Continent
+2021,South America,1.022779971,Continent
+2021,Upper-middle Income,1.009006717,Income

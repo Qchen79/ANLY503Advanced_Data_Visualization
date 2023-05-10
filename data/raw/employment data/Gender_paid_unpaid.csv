@@ -1,0 +1,137 @@
+﻿COU,Country,Indicator,Sex,Unit,Value
+AUS,Australia,"Time spent in unpaid work, by sex",Men,Minutes per day,171.6
+AUS,Australia,"Time spent in unpaid work, by sex",Women,Minutes per day,311
+AUS,Australia,"Time spent in paid work, by sex",Men,Minutes per day,304.1
+AUS,Australia,"Time spent in paid work, by sex",Women,Minutes per day,172
+AUT,Austria,"Time spent in unpaid work, by sex",Men,Minutes per day,135.3
+AUT,Austria,"Time spent in unpaid work, by sex",Women,Minutes per day,269.2
+AUT,Austria,"Time spent in paid work, by sex",Men,Minutes per day,364.8
+AUT,Austria,"Time spent in paid work, by sex",Women,Minutes per day,248.8
+BEL,Belgium,"Time spent in unpaid work, by sex",Men,Minutes per day,144.2
+BEL,Belgium,"Time spent in unpaid work, by sex",Women,Minutes per day,237.3
+BEL,Belgium,"Time spent in paid work, by sex",Men,Minutes per day,273.7
+BEL,Belgium,"Time spent in paid work, by sex",Women,Minutes per day,199.2
+CAN,Canada,"Time spent in unpaid work, by sex",Men,Minutes per day,148.1
+CAN,Canada,"Time spent in unpaid work, by sex",Women,Minutes per day,223.7
+CAN,Canada,"Time spent in paid work, by sex",Men,Minutes per day,340.5
+CAN,Canada,"Time spent in paid work, by sex",Women,Minutes per day,268.3
+DNK,Denmark,"Time spent in unpaid work, by sex",Men,Minutes per day,186.1
+DNK,Denmark,"Time spent in unpaid work, by sex",Women,Minutes per day,242.8
+DNK,Denmark,"Time spent in paid work, by sex",Men,Minutes per day,260.1
+DNK,Denmark,"Time spent in paid work, by sex",Women,Minutes per day,194.6
+FIN,Finland,"Time spent in unpaid work, by sex",Men,Minutes per day,157.5
+FIN,Finland,"Time spent in unpaid work, by sex",Women,Minutes per day,235.8
+FIN,Finland,"Time spent in paid work, by sex",Men,Minutes per day,248.6
+FIN,Finland,"Time spent in paid work, by sex",Women,Minutes per day,209.9
+FRA,France,"Time spent in unpaid work, by sex",Men,Minutes per day,134.9
+FRA,France,"Time spent in unpaid work, by sex",Women,Minutes per day,224
+FRA,France,"Time spent in paid work, by sex",Men,Minutes per day,235.1
+FRA,France,"Time spent in paid work, by sex",Women,Minutes per day,175.4
+DEU,Germany,"Time spent in unpaid work, by sex",Men,Minutes per day,150.4
+DEU,Germany,"Time spent in unpaid work, by sex",Women,Minutes per day,242.3
+DEU,Germany,"Time spent in paid work, by sex",Men,Minutes per day,289.5
+DEU,Germany,"Time spent in paid work, by sex",Women,Minutes per day,205.5
+GRC,Greece,"Time spent in unpaid work, by sex",Men,Minutes per day,95.1
+GRC,Greece,"Time spent in unpaid work, by sex",Women,Minutes per day,259.5
+GRC,Greece,"Time spent in paid work, by sex",Men,Minutes per day,274.3
+GRC,Greece,"Time spent in paid work, by sex",Women,Minutes per day,184.5
+HUN,Hungary,"Time spent in unpaid work, by sex",Men,Minutes per day,162.3
+HUN,Hungary,"Time spent in unpaid work, by sex",Women,Minutes per day,293.8
+HUN,Hungary,"Time spent in paid work, by sex",Men,Minutes per day,272.7
+HUN,Hungary,"Time spent in paid work, by sex",Women,Minutes per day,202.5
+IRL,Ireland,"Time spent in unpaid work, by sex",Men,Minutes per day,127
+IRL,Ireland,"Time spent in unpaid work, by sex",Women,Minutes per day,292.5
+IRL,Ireland,"Time spent in paid work, by sex",Men,Minutes per day,340.8
+IRL,Ireland,"Time spent in paid work, by sex",Women,Minutes per day,194.9
+ITA,Italy,"Time spent in unpaid work, by sex",Men,Minutes per day,130.7
+ITA,Italy,"Time spent in unpaid work, by sex",Women,Minutes per day,306.3
+ITA,Italy,"Time spent in paid work, by sex",Men,Minutes per day,220.8
+ITA,Italy,"Time spent in paid work, by sex",Women,Minutes per day,133.1
+JPN,Japan,"Time spent in unpaid work, by sex",Men,Minutes per day,40.8
+JPN,Japan,"Time spent in unpaid work, by sex",Women,Minutes per day,224.3
+JPN,Japan,"Time spent in paid work, by sex",Men,Minutes per day,451.8
+JPN,Japan,"Time spent in paid work, by sex",Women,Minutes per day,271.5
+KOR,Korea,"Time spent in unpaid work, by sex",Men,Minutes per day,49
+KOR,Korea,"Time spent in unpaid work, by sex",Women,Minutes per day,215
+KOR,Korea,"Time spent in paid work, by sex",Men,Minutes per day,419
+KOR,Korea,"Time spent in paid work, by sex",Women,Minutes per day,269.4
+MEX,Mexico,"Time spent in unpaid work, by sex",Men,Minutes per day,131.4
+MEX,Mexico,"Time spent in unpaid work, by sex",Women,Minutes per day,331.3
+MEX,Mexico,"Time spent in paid work, by sex",Men,Minutes per day,478.3
+MEX,Mexico,"Time spent in paid work, by sex",Women,Minutes per day,236.3
+NLD,Netherlands,"Time spent in unpaid work, by sex",Men,Minutes per day,145.4
+NLD,Netherlands,"Time spent in unpaid work, by sex",Women,Minutes per day,224.9
+NLD,Netherlands,"Time spent in paid work, by sex",Men,Minutes per day,284.9
+NLD,Netherlands,"Time spent in paid work, by sex",Women,Minutes per day,201.4
+NZL,New Zealand,"Time spent in unpaid work, by sex",Men,Minutes per day,141
+NZL,New Zealand,"Time spent in unpaid work, by sex",Women,Minutes per day,264
+NZL,New Zealand,"Time spent in paid work, by sex",Men,Minutes per day,338
+NZL,New Zealand,"Time spent in paid work, by sex",Women,Minutes per day,205
+NOR,Norway,"Time spent in unpaid work, by sex",Men,Minutes per day,168.5
+NOR,Norway,"Time spent in unpaid work, by sex",Women,Minutes per day,227.4
+NOR,Norway,"Time spent in paid work, by sex",Men,Minutes per day,277.4
+NOR,Norway,"Time spent in paid work, by sex",Women,Minutes per day,200
+POL,Poland,"Time spent in unpaid work, by sex",Men,Minutes per day,158.8
+POL,Poland,"Time spent in unpaid work, by sex",Women,Minutes per day,295
+POL,Poland,"Time spent in paid work, by sex",Men,Minutes per day,314.8
+POL,Poland,"Time spent in paid work, by sex",Women,Minutes per day,203.2
+PRT,Portugal,"Time spent in unpaid work, by sex",Men,Minutes per day,96.3
+PRT,Portugal,"Time spent in unpaid work, by sex",Women,Minutes per day,328.2
+PRT,Portugal,"Time spent in paid work, by sex",Men,Minutes per day,372.3
+PRT,Portugal,"Time spent in paid work, by sex",Women,Minutes per day,231.3
+ESP,Spain,"Time spent in unpaid work, by sex",Men,Minutes per day,145.9
+ESP,Spain,"Time spent in unpaid work, by sex",Women,Minutes per day,289.1
+ESP,Spain,"Time spent in paid work, by sex",Men,Minutes per day,236.2
+ESP,Spain,"Time spent in paid work, by sex",Women,Minutes per day,166.8
+SWE,Sweden,"Time spent in unpaid work, by sex",Men,Minutes per day,171
+SWE,Sweden,"Time spent in unpaid work, by sex",Women,Minutes per day,220.2
+SWE,Sweden,"Time spent in paid work, by sex",Men,Minutes per day,313
+SWE,Sweden,"Time spent in paid work, by sex",Women,Minutes per day,275.2
+TUR,Türkiye,"Time spent in unpaid work, by sex",Men,Minutes per day,67.6
+TUR,Türkiye,"Time spent in unpaid work, by sex",Women,Minutes per day,305
+TUR,Türkiye,"Time spent in paid work, by sex",Men,Minutes per day,358.3
+TUR,Türkiye,"Time spent in paid work, by sex",Women,Minutes per day,133.9
+GBR,United Kingdom,"Time spent in unpaid work, by sex",Men,Minutes per day,140.1
+GBR,United Kingdom,"Time spent in unpaid work, by sex",Women,Minutes per day,248.6
+GBR,United Kingdom,"Time spent in paid work, by sex",Men,Minutes per day,308.6
+GBR,United Kingdom,"Time spent in paid work, by sex",Women,Minutes per day,216.2
+USA,United States,"Time spent in unpaid work, by sex",Men,Minutes per day,165.8
+USA,United States,"Time spent in unpaid work, by sex",Women,Minutes per day,271.3
+USA,United States,"Time spent in paid work, by sex",Men,Minutes per day,331.7
+USA,United States,"Time spent in paid work, by sex",Women,Minutes per day,247
+CHN,China (People's Republic of),"Time spent in unpaid work, by sex",Men,Minutes per day,91
+CHN,China (People's Republic of),"Time spent in unpaid work, by sex",Women,Minutes per day,234
+CHN,China (People's Republic of),"Time spent in paid work, by sex",Men,Minutes per day,390
+CHN,China (People's Republic of),"Time spent in paid work, by sex",Women,Minutes per day,291
+EST,Estonia,"Time spent in unpaid work, by sex",Men,Minutes per day,160.2
+EST,Estonia,"Time spent in unpaid work, by sex",Women,Minutes per day,249.2
+EST,Estonia,"Time spent in paid work, by sex",Men,Minutes per day,264.1
+EST,Estonia,"Time spent in paid work, by sex",Women,Minutes per day,244.9
+IND,India,"Time spent in unpaid work, by sex",Men,Minutes per day,51.8
+IND,India,"Time spent in unpaid work, by sex",Women,Minutes per day,351.9
+IND,India,"Time spent in paid work, by sex",Men,Minutes per day,390.6
+IND,India,"Time spent in paid work, by sex",Women,Minutes per day,184.7
+LVA,Latvia,"Time spent in unpaid work, by sex",Men,Minutes per day,129.7
+LVA,Latvia,"Time spent in unpaid work, by sex",Women,Minutes per day,253.3
+LVA,Latvia,"Time spent in paid work, by sex",Men,Minutes per day,376.9
+LVA,Latvia,"Time spent in paid work, by sex",Women,Minutes per day,288.5
+SVN,Slovenia,"Time spent in unpaid work, by sex",Men,Minutes per day,166.5
+SVN,Slovenia,"Time spent in unpaid work, by sex",Women,Minutes per day,286.2
+SVN,Slovenia,"Time spent in paid work, by sex",Men,Minutes per day,299.8
+SVN,Slovenia,"Time spent in paid work, by sex",Women,Minutes per day,234.2
+ZAF,South Africa,"Time spent in unpaid work, by sex",Men,Minutes per day,102.9
+ZAF,South Africa,"Time spent in unpaid work, by sex",Women,Minutes per day,249.6
+ZAF,South Africa,"Time spent in paid work, by sex",Men,Minutes per day,294.2
+ZAF,South Africa,"Time spent in paid work, by sex",Women,Minutes per day,195
+LUX,Luxembourg,"Time spent in unpaid work, by sex",Men,Minutes per day,121.1
+LUX,Luxembourg,"Time spent in unpaid work, by sex",Women,Minutes per day,239.6
+LUX,Luxembourg,"Time spent in paid work, by sex",Men,Minutes per day,330
+LUX,Luxembourg,"Time spent in paid work, by sex",Women,Minutes per day,238.9
+LTU,Lithuania,"Time spent in unpaid work, by sex",Men,Minutes per day,151.6
+LTU,Lithuania,"Time spent in unpaid work, by sex",Women,Minutes per day,292
+LTU,Lithuania,"Time spent in paid work, by sex",Men,Minutes per day,354.3
+LTU,Lithuania,"Time spent in paid work, by sex",Women,Minutes per day,279.3
+OAVG,OECD - Average,"Time spent in unpaid work, by sex",Men,Minutes per day,136.5
+OAVG,OECD - Average,"Time spent in unpaid work, by sex",Women,Minutes per day,263.4
+OAVG,OECD - Average,"Time spent in paid work, by sex",Men,Minutes per day,317.8
+OAVG,OECD - Average,"Time spent in paid work, by sex",Women,Minutes per day,217.7

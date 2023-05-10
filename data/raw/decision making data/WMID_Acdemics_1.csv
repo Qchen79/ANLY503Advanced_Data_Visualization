@@ -1,0 +1,833 @@
+time,_geo,geo,value,UNIT,_UNIT,EGROUP,_EGROUP,POSITION,_POSITION,sex,_sex
+2021,AL,Albania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,AL,Albania,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,AL,Albania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,AL,Albania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,AT,Austria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,AT,Austria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,AT,Austria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,AT,Austria,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,AT,Austria,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,AT,Austria,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,AT,Austria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,AT,Austria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,AT,Austria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,AT,Austria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,AT,Austria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,AT,Austria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BA,Bosnia and Herzegovina,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BA,Bosnia and Herzegovina,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BA,Bosnia and Herzegovina,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BA,Bosnia and Herzegovina,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BA,Bosnia and Herzegovina,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BA,Bosnia and Herzegovina,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BA,Bosnia and Herzegovina,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BA,Bosnia and Herzegovina,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,BE,Belgium,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BE,Belgium,21,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BE,Belgium,22,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,BE,Belgium,53,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BE,Belgium,44,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BE,Belgium,43,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,BE,Belgium,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BE,Belgium,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BE,Belgium,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,BE,Belgium,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BE,Belgium,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BE,Belgium,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,BG,Bulgaria,14,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BG,Bulgaria,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BG,Bulgaria,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,BG,Bulgaria,13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BG,Bulgaria,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BG,Bulgaria,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,BG,Bulgaria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BG,Bulgaria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BG,Bulgaria,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,BG,Bulgaria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BG,Bulgaria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BG,Bulgaria,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,CY,Cyprus,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,CY,Cyprus,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,CY,Cyprus,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,CY,Cyprus,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,CY,Cyprus,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,CY,Cyprus,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,CY,Cyprus,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,CY,Cyprus,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,CZ,Czech Republic,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,CZ,Czech Republic,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,CZ,Czech Republic,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,CZ,Czech Republic,13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,CZ,Czech Republic,11,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,CZ,Czech Republic,11,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,CZ,Czech Republic,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,CZ,Czech Republic,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,CZ,Czech Republic,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,CZ,Czech Republic,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,CZ,Czech Republic,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,CZ,Czech Republic,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,DE,Germany,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,DE,Germany,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,DE,Germany,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,DE,Germany,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,DE,Germany,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,DE,Germany,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,DE,Germany,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,DE,Germany,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,DE,Germany,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,DE,Germany,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,DE,Germany,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,DE,Germany,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,DK,Denmark,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,DK,Denmark,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,DK,Denmark,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,DK,Denmark,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,DK,Denmark,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,DK,Denmark,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,DK,Denmark,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,DK,Denmark,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,DK,Denmark,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,DK,Denmark,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,DK,Denmark,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,DK,Denmark,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EEA,EEA countries (non-EU),4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EEA,EEA countries (non-EU),4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EEA,EEA countries (non-EU),3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EEA,EEA countries (non-EU),3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EEA,EEA countries (non-EU),1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EEA,EEA countries (non-EU),1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EEA,EEA countries (non-EU),0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EEA,EEA countries (non-EU),0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EE,Estonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EE,Estonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EE,Estonia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EE,Estonia,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EE,Estonia,17,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EE,Estonia,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EE,Estonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EE,Estonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EE,Estonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EE,Estonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EE,Estonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EE,Estonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EL,Greece,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EL,Greece,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EL,Greece,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EL,Greece,9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EL,Greece,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EL,Greece,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EL,Greece,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EL,Greece,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EL,Greece,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EL,Greece,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EL,Greece,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EL,Greece,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,ES,Spain,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,ES,Spain,11,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,ES,Spain,14,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,ES,Spain,75,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,ES,Spain,77,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,ES,Spain,75,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,ES,Spain,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,ES,Spain,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,ES,Spain,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,ES,Spain,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,ES,Spain,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,ES,Spain,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EU27_2020,European Union - 27 countries (from 2020),120,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EU27_2020,European Union - 27 countries (from 2020),137,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EU27_2020,European Union - 27 countries (from 2020),147,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EU27_2020,European Union - 27 countries (from 2020),481,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EU27_2020,European Union - 27 countries (from 2020),466,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EU27_2020,European Union - 27 countries (from 2020),457,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EU27_2020,European Union - 27 countries (from 2020),8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EU27_2020,European Union - 27 countries (from 2020),8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EU27_2020,European Union - 27 countries (from 2020),13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EU27_2020,European Union - 27 countries (from 2020),45,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EU27_2020,European Union - 27 countries (from 2020),46,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EU27_2020,European Union - 27 countries (from 2020),41,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EU28,European Union - 28 countries (1993-2020),151,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EU28,European Union - 28 countries (1993-2020),181,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EU28,European Union - 28 countries (1993-2020),185,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EU28,European Union - 28 countries (1993-2020),548,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EU28,European Union - 28 countries (1993-2020),517,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EU28,European Union - 28 countries (1993-2020),511,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EU28,European Union - 28 countries (1993-2020),9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EU28,European Union - 28 countries (1993-2020),9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EU28,European Union - 28 countries (1993-2020),16,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EU28,European Union - 28 countries (1993-2020),49,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EU28,European Union - 28 countries (1993-2020),50,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EU28,European Union - 28 countries (1993-2020),43,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,FI,Finland,11,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,FI,Finland,13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,FI,Finland,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,FI,Finland,25,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,FI,Finland,23,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,FI,Finland,26,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,FI,Finland,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,FI,Finland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,FI,Finland,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,FI,Finland,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,FI,Finland,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,FI,Finland,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,FR,France,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,FR,France,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,FR,France,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,FR,France,26,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,FR,France,30,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,FR,France,30,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,FR,France,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,FR,France,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,FR,France,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,FR,France,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,FR,France,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,FR,France,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,HR,Croatia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,HR,Croatia,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,HR,Croatia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,HR,Croatia,17,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,HR,Croatia,16,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,HR,Croatia,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,HR,Croatia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,HR,Croatia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,HR,Croatia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,HR,Croatia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,HR,Croatia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,HR,Croatia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,HU,Hungary,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,HU,Hungary,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,HU,Hungary,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,HU,Hungary,29,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,HU,Hungary,27,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,HU,Hungary,32,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,HU,Hungary,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,HU,Hungary,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,HU,Hungary,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,HU,Hungary,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,HU,Hungary,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,HU,Hungary,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,IE,Ireland,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IE,Ireland,9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IE,Ireland,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,IE,Ireland,15,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IE,Ireland,13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IE,Ireland,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,IE,Ireland,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IE,Ireland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IE,Ireland,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,IE,Ireland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IE,Ireland,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IE,Ireland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,56,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,64,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,IT,Italy,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IT,Italy,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IT,Italy,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,IT,Italy,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IT,Italy,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IT,Italy,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,IT,Italy,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IT,Italy,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IT,Italy,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,IT,Italy,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IT,Italy,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IT,Italy,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,LT,Lithuania,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,LT,Lithuania,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,LT,Lithuania,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LT,Lithuania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LT,Lithuania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LT,Lithuania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LT,Lithuania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LU,Luxembourg,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LU,Luxembourg,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LU,Luxembourg,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LU,Luxembourg,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LU,Luxembourg,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LU,Luxembourg,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LU,Luxembourg,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LU,Luxembourg,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,LV,Latvia,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LV,Latvia,7,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,LV,Latvia,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,LV,Latvia,20,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,LV,Latvia,19,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,LV,Latvia,19,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LV,Latvia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LV,Latvia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LV,Latvia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LV,Latvia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LV,Latvia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LV,Latvia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,ME,Montenegro,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,ME,Montenegro,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,ME,Montenegro,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,ME,Montenegro,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,ME,Montenegro,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,ME,Montenegro,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,ME,Montenegro,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,ME,Montenegro,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,MK,North Macedonia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,MK,North Macedonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,MK,North Macedonia,9,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,MK,North Macedonia,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,MK,North Macedonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,MK,North Macedonia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,MK,North Macedonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,MK,North Macedonia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,NL,Netherlands,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,NL,Netherlands,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,NL,Netherlands,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,NL,Netherlands,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,NL,Netherlands,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,NL,Netherlands,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,NL,Netherlands,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,NL,Netherlands,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,NL,Netherlands,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,NL,Netherlands,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,NL,Netherlands,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,NL,Netherlands,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,NO,Norway,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,NO,Norway,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,NO,Norway,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,NO,Norway,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,NO,Norway,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,NO,Norway,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,NO,Norway,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,NO,Norway,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,PL,Poland,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,PL,Poland,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,PL,Poland,8,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,PL,Poland,45,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,PL,Poland,43,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,PL,Poland,45,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,PL,Poland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,PL,Poland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,PL,Poland,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,PL,Poland,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,PL,Poland,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,PL,Poland,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,PT,Portugal,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,PT,Portugal,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,PT,Portugal,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,PT,Portugal,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,PT,Portugal,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,PT,Portugal,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,PT,Portugal,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,RO,Romania,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,RO,Romania,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,RO,Romania,6,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,RO,Romania,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,RO,Romania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,RO,Romania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,RO,Romania,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,RS,Serbia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,RS,Serbia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,RS,Serbia,14,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,RS,Serbia,14,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,RS,Serbia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,RS,Serbia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,RS,Serbia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,RS,Serbia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SE,Sweden,25,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SE,Sweden,21,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SE,Sweden,23,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SE,Sweden,43,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SE,Sweden,43,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SE,Sweden,38,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SE,Sweden,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SE,Sweden,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SE,Sweden,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SE,Sweden,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SE,Sweden,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SE,Sweden,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SI,Slovenia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SI,Slovenia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SI,Slovenia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SI,Slovenia,13,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SI,Slovenia,12,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SI,Slovenia,11,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SI,Slovenia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SI,Slovenia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SI,Slovenia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SI,Slovenia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SI,Slovenia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SI,Slovenia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SK,Slovakia,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SK,Slovakia,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SK,Slovakia,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SK,Slovakia,18,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SK,Slovakia,19,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SK,Slovakia,20,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SK,Slovakia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SK,Slovakia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SK,Slovakia,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SK,Slovakia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SK,Slovakia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SK,Slovakia,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,TR,Turkey,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,TR,Turkey,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,TR,Turkey,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,TR,Turkey,10,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,TR,Turkey,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,TR,Turkey,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,TR,Turkey,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,TR,Turkey,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,UK,United Kingdom,31,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,UK,United Kingdom,44,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,UK,United Kingdom,38,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,UK,United Kingdom,67,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,UK,United Kingdom,51,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,UK,United Kingdom,54,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,UK,United Kingdom,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,UK,United Kingdom,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,UK,United Kingdom,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,UK,United Kingdom,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,UK,United Kingdom,4,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,UK,United Kingdom,2,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,XK,Kosovo,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,XK,Kosovo,3,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,XK,Kosovo,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,XK,Kosovo,5,Number of persons (headcount),NR,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,XK,Kosovo,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,XK,Kosovo,0,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,XK,Kosovo,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,XK,Kosovo,1,Number of persons (headcount),NR,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,AL,Albania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,AL,Albania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,AL,Albania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,AL,Albania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,AT,Austria,25,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,AT,Austria,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,AT,Austria,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,AT,Austria,75,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,AT,Austria,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,AT,Austria,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,AT,Austria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,AT,Austria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,AT,Austria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,AT,Austria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,AT,Austria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,AT,Austria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BA,Bosnia and Herzegovina,28.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BA,Bosnia and Herzegovina,25,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BA,Bosnia and Herzegovina,71.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BA,Bosnia and Herzegovina,75,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BA,Bosnia and Herzegovina,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BA,Bosnia and Herzegovina,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BA,Bosnia and Herzegovina,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BA,Bosnia and Herzegovina,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,BE,Belgium,22.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BE,Belgium,32.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BE,Belgium,33.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,BE,Belgium,77.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BE,Belgium,67.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BE,Belgium,66.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,BE,Belgium,16.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BE,Belgium,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BE,Belgium,66.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,BE,Belgium,83.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BE,Belgium,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BE,Belgium,33.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,BG,Bulgaria,51.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,BG,Bulgaria,55.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,BG,Bulgaria,55.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,BG,Bulgaria,48.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,BG,Bulgaria,44.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,BG,Bulgaria,44.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,BG,Bulgaria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,BG,Bulgaria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,BG,Bulgaria,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,BG,Bulgaria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,BG,Bulgaria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,BG,Bulgaria,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,CY,Cyprus,20,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,CY,Cyprus,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,CY,Cyprus,80,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,CY,Cyprus,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,CY,Cyprus,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,CY,Cyprus,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,CY,Cyprus,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,CY,Cyprus,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,CZ,Czech Republic,23.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,CZ,Czech Republic,35.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,CZ,Czech Republic,35.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,CZ,Czech Republic,76.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,CZ,Czech Republic,64.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,CZ,Czech Republic,64.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,CZ,Czech Republic,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,CZ,Czech Republic,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,CZ,Czech Republic,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,CZ,Czech Republic,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,CZ,Czech Republic,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,CZ,Czech Republic,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,DE,Germany,16.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,DE,Germany,16.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,DE,Germany,27.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,DE,Germany,83.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,DE,Germany,83.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,DE,Germany,72.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,DE,Germany,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,DE,Germany,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,DE,Germany,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,DE,Germany,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,DE,Germany,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,DE,Germany,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,DK,Denmark,28.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,DK,Denmark,28.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,DK,Denmark,33.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,DK,Denmark,71.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,DK,Denmark,71.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,DK,Denmark,66.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,DK,Denmark,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,DK,Denmark,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,DK,Denmark,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,DK,Denmark,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,DK,Denmark,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,DK,Denmark,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EEA,EEA countries (non-EU),57.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EEA,EEA countries (non-EU),57.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EEA,EEA countries (non-EU),42.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EEA,EEA countries (non-EU),42.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EEA,EEA countries (non-EU),100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EEA,EEA countries (non-EU),100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EEA,EEA countries (non-EU),0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EEA,EEA countries (non-EU),0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EE,Estonia,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EE,Estonia,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EE,Estonia,16.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EE,Estonia,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EE,Estonia,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EE,Estonia,83.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EE,Estonia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EE,Estonia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EE,Estonia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EE,Estonia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EE,Estonia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EE,Estonia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EL,Greece,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EL,Greece,11.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EL,Greece,22.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EL,Greece,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EL,Greece,88.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EL,Greece,77.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EL,Greece,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EL,Greece,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EL,Greece,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EL,Greece,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EL,Greece,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EL,Greece,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,ES,Spain,11.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,ES,Spain,12.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,ES,Spain,15.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,ES,Spain,88.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,ES,Spain,87.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,ES,Spain,84.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,ES,Spain,11.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,ES,Spain,11.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,ES,Spain,11.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,ES,Spain,88.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,ES,Spain,88.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,ES,Spain,88.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EU27_2020,European Union - 27 countries (from 2020),20,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EU27_2020,European Union - 27 countries (from 2020),22.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EU27_2020,European Union - 27 countries (from 2020),24.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EU27_2020,European Union - 27 countries (from 2020),80,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EU27_2020,European Union - 27 countries (from 2020),77.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EU27_2020,European Union - 27 countries (from 2020),75.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EU27_2020,European Union - 27 countries (from 2020),15.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EU27_2020,European Union - 27 countries (from 2020),14.8,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EU27_2020,European Union - 27 countries (from 2020),24.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EU27_2020,European Union - 27 countries (from 2020),84.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EU27_2020,European Union - 27 countries (from 2020),85.2,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EU27_2020,European Union - 27 countries (from 2020),75.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,EU28,European Union - 28 countries (1993-2020),21.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,EU28,European Union - 28 countries (1993-2020),25.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,EU28,European Union - 28 countries (1993-2020),26.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,EU28,European Union - 28 countries (1993-2020),78.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,EU28,European Union - 28 countries (1993-2020),74.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,EU28,European Union - 28 countries (1993-2020),73.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,EU28,European Union - 28 countries (1993-2020),15.5,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,EU28,European Union - 28 countries (1993-2020),15.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,EU28,European Union - 28 countries (1993-2020),27.1,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,EU28,European Union - 28 countries (1993-2020),84.5,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,EU28,European Union - 28 countries (1993-2020),84.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,EU28,European Union - 28 countries (1993-2020),72.9,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,FI,Finland,30.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,FI,Finland,36.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,FI,Finland,31.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,FI,Finland,69.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,FI,Finland,63.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,FI,Finland,68.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,FI,Finland,25,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,FI,Finland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,FI,Finland,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,FI,Finland,75,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,FI,Finland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,FI,Finland,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,FR,France,21.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,FR,France,14.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,FR,France,14.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,FR,France,78.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,FR,France,85.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,FR,France,85.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,FR,France,16.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,FR,France,16.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,FR,France,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,FR,France,83.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,FR,France,83.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,FR,France,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,HR,Croatia,10.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,HR,Croatia,15.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,HR,Croatia,11.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,HR,Croatia,89.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,HR,Croatia,84.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,HR,Croatia,88.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,HR,Croatia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,HR,Croatia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,HR,Croatia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,HR,Croatia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,HR,Croatia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,HR,Croatia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,HU,Hungary,9.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,HU,Hungary,12.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,HU,Hungary,11.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,HU,Hungary,90.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,HU,Hungary,87.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,HU,Hungary,88.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,HU,Hungary,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,HU,Hungary,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,HU,Hungary,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,HU,Hungary,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,HU,Hungary,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,HU,Hungary,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,IE,Ireland,34.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IE,Ireland,40.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IE,Ireland,50,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,IE,Ireland,65.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IE,Ireland,59.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IE,Ireland,50,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,IE,Ireland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IE,Ireland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IE,Ireland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,IE,Ireland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IE,Ireland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IE,Ireland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,13.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,12.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,86.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,87.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IPA,Instrument for Pre-accession Assistance (IPA) countries,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IPA,Instrument for Pre-accession Assistance (IPA) countries,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,IT,Italy,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,IT,Italy,12.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,IT,Italy,12.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,IT,Italy,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,IT,Italy,87.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,IT,Italy,87.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,IT,Italy,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,IT,Italy,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,IT,Italy,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,IT,Italy,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,IT,Italy,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,IT,Italy,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LT,Lithuania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LT,Lithuania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LU,Luxembourg,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LU,Luxembourg,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LU,Luxembourg,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LU,Luxembourg,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LU,Luxembourg,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LU,Luxembourg,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LU,Luxembourg,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LU,Luxembourg,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,LV,Latvia,25.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,LV,Latvia,26.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,LV,Latvia,24,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,LV,Latvia,74.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,LV,Latvia,73.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,LV,Latvia,76,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,LV,Latvia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,LV,Latvia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,LV,Latvia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,LV,Latvia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,LV,Latvia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,LV,Latvia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,ME,Montenegro,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,ME,Montenegro,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,ME,Montenegro,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,ME,Montenegro,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,ME,Montenegro,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,ME,Montenegro,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,ME,Montenegro,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,ME,Montenegro,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,MK,North Macedonia,18.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,MK,North Macedonia,9.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,MK,North Macedonia,81.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,MK,North Macedonia,90.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,MK,North Macedonia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,MK,North Macedonia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,MK,North Macedonia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,MK,North Macedonia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,NL,Netherlands,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,NL,Netherlands,33.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,NL,Netherlands,42.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,NL,Netherlands,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,NL,Netherlands,66.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,NL,Netherlands,57.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,NL,Netherlands,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,NL,Netherlands,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,NL,Netherlands,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,NL,Netherlands,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,NL,Netherlands,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,NL,Netherlands,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,NO,Norway,57.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,NO,Norway,57.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,NO,Norway,42.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,NO,Norway,42.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,NO,Norway,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,NO,Norway,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,NO,Norway,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,NO,Norway,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,PL,Poland,8.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,PL,Poland,15.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,PL,Poland,15.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,PL,Poland,91.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,PL,Poland,84.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,PL,Poland,84.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,PL,Poland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,PL,Poland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,PL,Poland,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,PL,Poland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,PL,Poland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,PL,Poland,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,PT,Portugal,20,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,PT,Portugal,20,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,PT,Portugal,14.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,PT,Portugal,80,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,PT,Portugal,80,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,PT,Portugal,85.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,PT,Portugal,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,PT,Portugal,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,PT,Portugal,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,PT,Portugal,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,PT,Portugal,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,PT,Portugal,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,RO,Romania,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,RO,Romania,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,RS,Serbia,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,RS,Serbia,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,RS,Serbia,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,RS,Serbia,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,RS,Serbia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,RS,Serbia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,RS,Serbia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,RS,Serbia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SE,Sweden,36.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SE,Sweden,32.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SE,Sweden,37.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SE,Sweden,63.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SE,Sweden,67.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SE,Sweden,62.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SE,Sweden,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SE,Sweden,33.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SE,Sweden,33.3,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SE,Sweden,50,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SE,Sweden,66.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SE,Sweden,66.7,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SI,Slovenia,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SI,Slovenia,7.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SI,Slovenia,15.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SI,Slovenia,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SI,Slovenia,92.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SI,Slovenia,84.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SI,Slovenia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SI,Slovenia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SI,Slovenia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SI,Slovenia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SI,Slovenia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SI,Slovenia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,SK,Slovakia,18.2,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,SK,Slovakia,13.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,SK,Slovakia,9.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,SK,Slovakia,81.8,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,SK,Slovakia,86.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,SK,Slovakia,90.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,SK,Slovakia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,SK,Slovakia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,SK,Slovakia,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,SK,Slovakia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,SK,Slovakia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,SK,Slovakia,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,TR,Turkey,0,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,TR,Turkey,9.1,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,TR,Turkey,100,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,TR,Turkey,90.9,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,TR,Turkey,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,TR,Turkey,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,TR,Turkey,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,TR,Turkey,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2017,UK,United Kingdom,31.6,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,UK,United Kingdom,46.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,UK,United Kingdom,41.3,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2017,UK,United Kingdom,68.4,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,UK,United Kingdom,53.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,UK,United Kingdom,58.7,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2017,UK,United Kingdom,20,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,UK,United Kingdom,20,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,UK,United Kingdom,60,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2017,UK,United Kingdom,80,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,UK,United Kingdom,80,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,UK,United Kingdom,40,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2019,XK,Kosovo,37.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2021,XK,Kosovo,37.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Women,W
+2019,XK,Kosovo,62.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2021,XK,Kosovo,62.5,Percent of total,PC,Academies of science,ACAD_SCI,Members of the highest decision-making body,MEMB_HDM,Men,M
+2019,XK,Kosovo,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2021,XK,Kosovo,0,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Women,W
+2019,XK,Kosovo,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
+2021,XK,Kosovo,100,Percent of total,PC,Academies of science,ACAD_SCI,President or chair,PRES_CHAIR,Men,M
